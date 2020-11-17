@@ -1,0 +1,9 @@
+programaInit
+a : real ,
+b : decimal ,
+a : real , 
+aq = 1 ,
+a = 9.3 , 
+b = c ,
+leia(b) ,
+!
